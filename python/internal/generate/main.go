@@ -44,7 +44,7 @@ var removeLibs = []string{
 	"sqlite3",
 	"test",
 	"turtledemo",
-	"venv",
+// 	"venv",
 	"bin", // not really a library, but erroneously installed by jsonpath_ng
 }
 
