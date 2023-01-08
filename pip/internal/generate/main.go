@@ -2,8 +2,8 @@ package main
 
 import (
 	"fmt"
-	"github.com/kluctl/go-embed-python/pip"
-	"github.com/kluctl/go-embed-python/python"
+	"github.com/saul-data/go-embed-python/pip"
+	"github.com/saul-data/go-embed-python/python"
 	"io"
 	"net/http"
 	"os"

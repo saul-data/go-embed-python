@@ -4,8 +4,8 @@ import (
 	"fmt"
 	"github.com/gobwas/glob"
 	"github.com/klauspost/compress/zstd"
-	"github.com/kluctl/go-embed-python/embed_util"
-	"github.com/kluctl/go-embed-python/internal"
+	"github.com/saul-data/go-embed-python/embed_util"
+	"github.com/saul-data/go-embed-python/internal"
 	log "github.com/sirupsen/logrus"
 	"io"
 	"net/http"
@@ -44,7 +44,7 @@ var removeLibs = []string{
 	"sqlite3",
 	"test",
 	"turtledemo",
-// 	"venv",
+	// 	"venv",
 	"bin", // not really a library, but erroneously installed by jsonpath_ng
 }
 
