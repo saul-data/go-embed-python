@@ -1,5 +1,5 @@
 {
-  "contentHash": "9b68f5e112b07be1569e0055362d0a8e583e1a623c8bfbc3d4b6841431a55733",
+  "contentHash": "507e6e94cda47ad369e661ad15c790b1c236a738472d8faa2ac20b88e341e791",
   "files": [
     {
       "name": "bin",
@@ -2622,6 +2622,56 @@
     {
       "name": "lib/python3.10/uuid.py",
       "size": 27324,
+      "perm": 436
+    },
+    {
+      "name": "lib/python3.10/venv",
+      "size": 0,
+      "perm": 2147484141
+    },
+    {
+      "name": "lib/python3.10/venv/__init__.py",
+      "size": 23532,
+      "perm": 436
+    },
+    {
+      "name": "lib/python3.10/venv/__main__.py",
+      "size": 145,
+      "perm": 436
+    },
+    {
+      "name": "lib/python3.10/venv/scripts",
+      "size": 0,
+      "perm": 2147484141
+    },
+    {
+      "name": "lib/python3.10/venv/scripts/common",
+      "size": 0,
+      "perm": 2147484141
+    },
+    {
+      "name": "lib/python3.10/venv/scripts/common/Activate.ps1",
+      "size": 9033,
+      "perm": 436
+    },
+    {
+      "name": "lib/python3.10/venv/scripts/common/activate",
+      "size": 2009,
+      "perm": 436
+    },
+    {
+      "name": "lib/python3.10/venv/scripts/posix",
+      "size": 0,
+      "perm": 2147484141
+    },
+    {
+      "name": "lib/python3.10/venv/scripts/posix/activate.csh",
+      "size": 935,
+      "perm": 436
+    },
+    {
+      "name": "lib/python3.10/venv/scripts/posix/activate.fish",
+      "size": 2077,
       "perm": 436
     },
     {

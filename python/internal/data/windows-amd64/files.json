@@ -1,5 +1,5 @@
 {
-  "contentHash": "44c7d22a10b1b5edd18a034d7814a496365d7c04f1f1d4111f9b23f20429c6a8",
+  "contentHash": "a397dd60c1c6a8fb6c2a62db3253e69cc72b5dfdb34f4dc176402e60550fe6b6",
   "files": [
     {
       "name": "DLLs",
@@ -2668,6 +2668,83 @@
     {
       "name": "Lib/uuid.py",
       "size": 27324,
+      "perm": 438
+    },
+    {
+      "name": "Lib/venv",
+      "size": 0,
+      "perm": 2147484141
+    },
+    {
+      "name": "Lib/venv/__init__.py",
+      "size": 23532,
+      "perm": 438
+    },
+    {
+      "name": "Lib/venv/__main__.py",
+      "size": 145,
+      "perm": 438
+    },
+    {
+      "name": "Lib/venv/scripts",
+      "size": 0,
+      "perm": 2147484141
+    },
+    {
+      "name": "Lib/venv/scripts/common",
+      "size": 0,
+      "perm": 2147484141
+    },
+    {
+      "name": "Lib/venv/scripts/common/Activate.ps1",
+      "size": 9033,
+      "perm": 438
+    },
+    {
+      "name": "Lib/venv/scripts/common/activate",
+      "size": 2009,
+      "perm": 438
+    },
+    {
+      "name": "Lib/venv/scripts/nt",
+      "size": 0,
+      "perm": 2147484141
+    },
+    {
+      "name": "Lib/venv/scripts/nt/activate.bat",
+      "size": 1007,
+      "perm": 511
+    },
+    {
+      "name": "Lib/venv/scripts/nt/deactivate.bat",
+      "size": 393,
+      "perm": 511
+    },
+    {
+      "name": "Lib/venv/scripts/nt/python.exe",
+      "size": 255488,
+      "perm": 511,
+      "compressed": true
+    },
+    {
+      "name": "Lib/venv/scripts/nt/pythonw.exe",
+      "size": 243712,
+      "perm": 511,
+      "compressed": true
+    },
+    {
+      "name": "Lib/venv/scripts/posix",
+      "size": 0,
+      "perm": 2147484141
+    },
+    {
+      "name": "Lib/venv/scripts/posix/activate.csh",
+      "size": 935,
+      "perm": 438
+    },
+    {
+      "name": "Lib/venv/scripts/posix/activate.fish",
+      "size": 2077,
       "perm": 438
     },
     {
