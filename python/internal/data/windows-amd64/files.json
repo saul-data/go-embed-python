@@ -1,5 +1,5 @@
 {
-  "contentHash": "a397dd60c1c6a8fb6c2a62db3253e69cc72b5dfdb34f4dc176402e60550fe6b6",
+  "contentHash": "8807e439ec4879bbc607efa0989e941f1d9bd0420e10223d6a12c6cb61d3f2f9",
   "files": [
     {
       "name": "DLLs",
@@ -1598,6 +1598,46 @@
     {
       "name": "Lib/encodings/zlib_codec.py",
       "size": 2204,
+      "perm": 438
+    },
+    {
+      "name": "Lib/ensurepip",
+      "size": 0,
+      "perm": 2147484141
+    },
+    {
+      "name": "Lib/ensurepip/__init__.py",
+      "size": 9635,
+      "perm": 438
+    },
+    {
+      "name": "Lib/ensurepip/__main__.py",
+      "size": 88,
+      "perm": 438
+    },
+    {
+      "name": "Lib/ensurepip/_bundled",
+      "size": 0,
+      "perm": 2147484141
+    },
+    {
+      "name": "Lib/ensurepip/_bundled/__init__.py",
+      "size": 0,
+      "perm": 438
+    },
+    {
+      "name": "Lib/ensurepip/_bundled/pip-22.2.2-py3-none-any.whl",
+      "size": 2044706,
+      "perm": 438
+    },
+    {
+      "name": "Lib/ensurepip/_bundled/setuptools-63.2.0-py3-none-any.whl",
+      "size": 1228000,
+      "perm": 438
+    },
+    {
+      "name": "Lib/ensurepip/_uninstall.py",
+      "size": 808,
       "perm": 438
     },
     {

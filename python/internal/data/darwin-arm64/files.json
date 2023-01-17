@@ -1,5 +1,5 @@
 {
-  "contentHash": "9ab9ffb0a1311345ff4f528c5f24ecde7204c3ac8d8cad436627d7173a06d92a",
+  "contentHash": "04162482fec59ae3a97c6b163ba9994b04a625ea2e5ee5a2c92addffdea63716",
   "files": [
     {
       "name": "bin",
@@ -1537,6 +1537,46 @@
     {
       "name": "lib/python3.10/encodings/zlib_codec.py",
       "size": 2204,
+      "perm": 436
+    },
+    {
+      "name": "lib/python3.10/ensurepip",
+      "size": 0,
+      "perm": 2147484141
+    },
+    {
+      "name": "lib/python3.10/ensurepip/__init__.py",
+      "size": 9635,
+      "perm": 436
+    },
+    {
+      "name": "lib/python3.10/ensurepip/__main__.py",
+      "size": 88,
+      "perm": 436
+    },
+    {
+      "name": "lib/python3.10/ensurepip/_bundled",
+      "size": 0,
+      "perm": 2147484141
+    },
+    {
+      "name": "lib/python3.10/ensurepip/_bundled/__init__.py",
+      "size": 0,
+      "perm": 436
+    },
+    {
+      "name": "lib/python3.10/ensurepip/_bundled/pip-22.2.2-py3-none-any.whl",
+      "size": 2044706,
+      "perm": 436
+    },
+    {
+      "name": "lib/python3.10/ensurepip/_bundled/setuptools-63.2.0-py3-none-any.whl",
+      "size": 1228000,
+      "perm": 436
+    },
+    {
+      "name": "lib/python3.10/ensurepip/_uninstall.py",
+      "size": 808,
       "perm": 436
     },
     {
